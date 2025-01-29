@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -101,7 +101,7 @@ sections:
       - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
-    showReadMoreLink: true
+    showReadMoreLink: false
     styles:
       self:
         height: auto
