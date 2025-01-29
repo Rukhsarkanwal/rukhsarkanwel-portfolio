@@ -100,7 +100,7 @@ sections:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
     showDate: true
-    showExcerpt: true
+    showExcerpt: false
     showReadMoreLink: false
     styles:
       self:
