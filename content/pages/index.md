@@ -99,7 +99,7 @@ sections:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
-    showDate: true
+    showDate: false
     showExcerpt: false
     showReadMoreLink: false
     styles:
@@ -127,6 +127,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    showAuthor: false
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
